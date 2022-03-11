@@ -1,14 +1,7 @@
 '''
 Date: 04/28/2021
-Section: 3
-File: D'AnnolfoFinalProject.py
-Description:
-This program uses StreamlitUI and other tools to create a dynamic web application that
-illustrates a heat map and bar chart based on a CSV dataset. This is the final project.
-I pledge that I have completed this programming assignment independently.
-I have not copied from a student or any source.
-I have not given my code to any student.
-'''
+File: FinalProject.py
+
 
 # Import libraries
 import streamlit as st
